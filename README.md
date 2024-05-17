@@ -2,6 +2,8 @@
 Repository hosts our project on predicting 30-day hospital readmissions using the MIMIC-IV database, featuring data preprocessing, exploratory analysis, and machine learning models to explore patient demographics and readmission factors.
 
 This project focuses on predicting hospital readmissions within 30 days using the MIMIC-IV database, specifically targeting kidney-related diagnoses. The aim is to harness advanced data analysis techniques and machine learning models to identify key predictors of readmission and support healthcare decision-making processes. Here's a breakdown of the project's main components and methodologies:
+
+
 **Exploratory Data Analysis (EDA)**
 The project begins with a comprehensive exploratory data analysis to understand the demographics, healthcare utilization, and other relevant metrics of the patients. This phase involves:
   - Analyzing the distribution of admitted patients by gender and the frequency of hospitalizations by admission location.
