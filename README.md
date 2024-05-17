@@ -5,6 +5,7 @@ This project focuses on predicting hospital readmissions within 30 days using th
 
 
 **Exploratory Data Analysis (EDA)**
+
 The project begins with a comprehensive exploratory data analysis to understand the demographics, healthcare utilization, and other relevant metrics of the patients. This phase involves:
   - Analyzing the distribution of admitted patients by gender and the frequency of hospitalizations by admission location.
   - Investigating monthly trends in patient admissions and creating visualizations such as bar charts, line graphs, and heatmaps to identify patterns and correlations that could affect readmissions.
